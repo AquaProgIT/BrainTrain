@@ -1,0 +1,16 @@
+﻿<Window x:Class="Brian_Release.InfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brian_Release"
+        mc:Ignorable="d"
+        Title="Результат" Height="530" Width="460" MaxWidth="460" MaxHeight="530" WindowStartupLocation="CenterScreen" WindowState="Minimized" Icon="Resources/Brain-Games-red-256.ico">
+    <Grid >
+        <Label Content="Супер!" HorizontalAlignment="Left" Margin="74,36,0,0" VerticalAlignment="Top" FontFamily="Segoe Print" Foreground="#FF08B800" FontSize="48" Height="84" Width="205" FontWeight="Bold" Background="#00136363"/>
+        <TextBlock x:Name="RightAnswers" HorizontalAlignment="Left" Height="35" Margin="74,125,0,0" TextWrapping="Wrap" Text="Правильних відповідей: 00" VerticalAlignment="Top" Width="305" FontSize="24" FontFamily="Tahoma" Foreground="#FF2BBBFF"/>
+        <TextBlock x:Name="WrongAnswers" HorizontalAlignment="Left" Height="35" Margin="74,178,0,0" TextWrapping="Wrap" Text="Неправильних відповідей: 00" VerticalAlignment="Top" Width="334" FontSize="24" FontFamily="Tahoma" Foreground="#FFFF3663"/>
+        <TextBlock x:Name="Mark" HorizontalAlignment="Left" Height="35" Margin="74,230,0,0" TextWrapping="Wrap" Text="Оцінка: 12" VerticalAlignment="Top" Width="334" FontSize="24" FontFamily="Tahoma" Foreground="Black"/>
+        <Button Content="OK" HorizontalAlignment="Left" Height="50" Margin="153,320,0,0" VerticalAlignment="Top" Width="126" FontSize="24" FontFamily="Segoe UI Light" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Window>

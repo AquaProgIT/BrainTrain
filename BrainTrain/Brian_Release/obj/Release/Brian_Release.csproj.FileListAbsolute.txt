@@ -1,0 +1,17 @@
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.csprojAssemblyReference.cache
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\InfoWindow.g.cs
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\MainWindow.g.cs
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\App.g.cs
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release_MarkupCompile.cache
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release_MarkupCompile.lref
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\InfoWindow.baml
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\MainWindow.baml
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.g.resources
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.pdb
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\bin\Release\Brian_Release.exe.config
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\bin\Release\Brian_Release.exe
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\bin\Release\Brian_Release.pdb
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.Properties.Resources.resources
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.csproj.GenerateResource.cache
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.csproj.CoreCompileInputs.cache
+C:\Users\vladd\Downloads\ReadyProjects-master\ReadyProjects-master\BrainTrain\Brian_Release\obj\Release\Brian_Release.exe
